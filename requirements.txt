@@ -1,0 +1,9 @@
+pandas
+numpy
+pickle
+zat
+urlextract
+re
+wordninja
+collections
+math
